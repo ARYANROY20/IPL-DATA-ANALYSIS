@@ -1,0 +1,23 @@
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+
+# Generated analysis output
+data/raw/
+data/processed/
+visualizations/
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
