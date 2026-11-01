@@ -1,5 +1,5 @@
 
-# Virtual environment
+# Virtual environments
 .venv/
 venv/
 
@@ -12,11 +12,10 @@ __pycache__/
 
 # Environment variables and secrets
 .env
+.env.*
 
-# Generated analysis output
+# Raw datasets (keep original data out of GitHub)
 data/raw/
-data/processed/
-visualizations/
 
 # Editor and OS files
 .vscode/
